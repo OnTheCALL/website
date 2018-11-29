@@ -12,6 +12,6 @@ L'historique des versions et les liens de téléchargments sont [ici](https://on
 
 ## Autres
 
-Les rapports de bug et proposition d'amélioration : [ici](https://onthecall.github.io/website/codeAPI)
+Les rapports de bug et proposition d'amélioration : [ici](https://github.com/OnTheCALL/game/issues)
 
 La documentation technique et les API pour développeurs : [ici](https://onthecall.github.io/website/codeAPI)
