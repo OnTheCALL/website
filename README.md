@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Bienvenue sur la page d'On The CALL
 
-You can use the [editor on GitHub](https://github.com/OnTheCALL/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Si vous souhaitez accéder au vrai sit, il est à présent ici : [loulou123546.fr](https://loulou123546.fr/onthecall)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Pour les tutoriels, ils sont disponible [ici](https://onthecall.github.io/website/tutoriels)
 
-### Markdown
+Les archives de cours et autres documents Rôle PLay : [ici](https://onthecall.github.io/website/archives)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Téléchargements
 
-```markdown
-Syntax highlighted code block
+L'historique des versions et les liens de téléchargments sont [ici](https://onthecall.github.io/website/download)
 
-# Header 1
-## Header 2
-### Header 3
+## Autres
 
-- Bulleted
-- List
+Les rapports de bug et proposition d'amélioration : [ici](https://onthecall.github.io/website/codeAPI)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OnTheCALL/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+La documentation technique et les API pour développeurs : [ici](https://onthecall.github.io/website/codeAPI)
