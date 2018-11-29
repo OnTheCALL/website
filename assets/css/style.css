@@ -31,7 +31,7 @@ body{line-height:1}
 ol,ul{list-style:none}
 blockquote,q{quotes:none}
 blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}
-table{border-spacing:5px;border-collapse:collapse}
+table{border-spacing:15px;border-collapse:collapse}
 body{font-family:'Helvetica Neue', Helvetica, Arial, serif;font-size:1em;line-height:1.5;color:#6d6d6d;text-shadow:0 1px 0 rgba(255,255,255,0.8);background:#e7e7e7 url(https://github.com/pages-themes/tactile/tree/master/assets/images/body-bg.png) 0 0 repeat}
 a{color:#d5000d}
 a:hover{color:#c5000c}
@@ -50,9 +50,9 @@ ul,ol,dl{margin-bottom:20px}
 hr{height:1px;padding-bottom:1em;margin-top:1em;line-height:1px;background:transparent url("https://github.com/pages-themes/tactile/tree/master/assets/images/hr.png") 50% 0 no-repeat;border:none}
 strong{font-weight:bold}
 em{font-style:italic}
-table{width:100%;border:1px solid #ebebeb}
+table{width:100%;border:1px solid #b8b8b8}
 th{font-weight:500}
-td{font-weight:300;text-align:center;border:1px solid #ebebeb}
+td{font-weight:300;text-align:center;border:1px solid #b8b8b8; padding:5px;}
 form{padding:20px;background:#f2f2f2}
 h1{font-size:32px}
 h2{margin-bottom:8px;font-size:22px;font-weight:bold;color:#303030}
@@ -67,7 +67,7 @@ blockquote{padding:0 0 0 30px;margin-bottom:20px;font-size:1.3em;border-left:10p
 ul li{list-style-position:inside;list-style:disc;padding-left:20px}
 ol li{list-style-position:inside;list-style:decimal;padding-left:3px}
 dl dt{color:#303030}
-footer{padding-top:20px;padding-bottom:30px;margin-top:40px;font-size:13px;color:#aaa;background:transparent url("../images/hr.png") 0 0 no-repeat}footer a{color:#666}footer a:hover{color:#444}
+footer{padding-top:20px;padding-bottom:30px;margin-top:40px;font-size:13px;color:#aaa;background:transparent url(https://github.com/pages-themes/tactile/tree/master/assets/images/hr.png") 0 0 no-repeat}footer a{color:#666}footer a:hover{color:#444}
 .clearfix:after{display:block;height:0;clear:both;visibility:hidden;content:'.'}
 .clearfix{display:inline-block}
 * html .clearfix{height:1%}
