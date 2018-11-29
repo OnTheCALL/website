@@ -13,6 +13,7 @@
 *No entry*  
 
 **result : JSON object**  
+
 |key|description|example|
 |:---:|:---:|:---:|
 |inter|array of object, where object look like the example|`WIP`|
@@ -25,6 +26,7 @@
 `POST https://cta.loulou123546.fr/API/newMSG`  
 
 **entry : JSON object**  
+
 |key|description|example|
 |:---:|:---:|:---:|
 |user|string with name of author|`"loulou123546"`|
