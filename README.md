@@ -1,6 +1,6 @@
 ## Bienvenue sur la page d'On The CALL
 
-Si vous souhaitez accéder au vrai sit, il est à présent ici : [loulou123546.fr](https://loulou123546.fr/onthecall)
+Si vous souhaitez accéder au vrai site, il est à présent ici : [loulou123546.fr](https://loulou123546.fr/onthecall)
 
 Pour les tutoriels, ils sont disponible [ici](https://onthecall.github.io/website/tutoriels)
 
