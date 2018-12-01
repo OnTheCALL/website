@@ -1,8 +1,24 @@
 # Téléchargements
 
-**Dernière mise à jour Publique : `0.3.0`**  
-Dernière mise à jour Alpha : `0.3.0`  
-*Dernière mise à jour Dev : `0.3.0`*  
+**Dernière mise à jour Publique : `0.3.1`**  
+Dernière mise à jour Alpha : `0.3.1`  
+*Dernière mise à jour Dev : `0.3.1`*  
+
+---
+
+## 0.3.1
+
+- Lien github : [release](https://github.com/OnTheCALL/game/releases/tag/v0.3.1)  
+- Windows 64 bits : [lien direct](https://github.com/OnTheCALL/game/releases/download/v0.3.1/Alpha.0.3.1._64.01-12-2018.zip)  
+- Windows 32 bits : [lien direct](https://github.com/OnTheCALL/game/releases/download/v0.3.1/Alpha.0.3.1.x86.01-12-2018.zip)  
+
+**Patchnote :**  
+
+```
+Correctif pour la physique des véhicules et le chat du menu Echap
+
+Et également ajouté pour phase de test le support Discord RPC
+```
 
 ---
 
