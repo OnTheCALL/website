@@ -1,8 +1,8 @@
 # Téléchargements
 
-**Dernière mise à jour Publique : `0.2.0`**  
+**Dernière mise à jour Publique : `0.3.0`**  
 Dernière mise à jour Alpha : `0.3.0`  
-*Dernière mise à jour Dev : `0.3.0-dev2`*  
+*Dernière mise à jour Dev : `0.3.0`*  
 
 ---
 
