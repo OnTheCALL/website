@@ -1,10 +1,35 @@
 # Téléchargements
 
-**Dernière mise à jour Publique : `0.3.1`**  
-Dernière mise à jour Alpha : `0.3.1`  
-*Dernière mise à jour Dev : `0.3.1`*  
+**Dernière mise à jour Publique : `0.4.1`**  
+Dernière mise à jour Alpha : `0.4.1`  
+*Dernière mise à jour Dev : `0.4.1`*  
 
 ---
+
+## 0.4.1  
+
+- Lien github : [release](https://github.com/OnTheCALL/game/releases/tag/v0.4.1)  
+- Windows 64 bits : [lien direct](https://github.com/OnTheCALL/game/releases/download/v0.4.1/Alpha.0.4.1._64.23-12-2018.zip)  
+- Windows 32 bits : [lien direct](https://github.com/OnTheCALL/game/releases/download/v0.4.1/Alpha.0.4.1.x86.23-12-2018.zip)  
+
+**Patchnote :**  
+
+```
+Le pére Noël passera un peu plus tôt cette année 😉 🎄 
+
+Les interventions d'On The CALL viennent d'arriver, avec au programme : 
+- Le système de gestion des victimes
+- 5 interventions de SAP (Secours à Personnes)
+- RCP, Brancard, Assistance Respiratoire, ...
+- L’hôpital partiellement fonctionnel
+- Le bipper enfin fonctionnel
+- Le CTA refait de A à Z
+- et un tas de petit correctif ...
+
+Je vous conseil grandement de lire les tutoriels sur le site : https://onthecall.github.io/website/tutoriels/
+
+Il vous permettrons de comprendre le fonctionnement des interventions, car elle sont pour le moment manuelle et non automatique ⚠️ 
+```
 
 ## 0.3.1
 
