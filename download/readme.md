@@ -1,10 +1,30 @@
 # Téléchargements
 
-**Dernière mise à jour Publique : `0.4.1`**  
-Dernière mise à jour Alpha : `0.4.1`  
-*Dernière mise à jour Dev : `0.4.1`*  
+**Dernière mise à jour Publique : `0.4.2`**  
+Dernière mise à jour Alpha : `0.4.2`  
+*Dernière mise à jour Dev : `0.4.2`*  
 
 ---
+
+## 0.4.2  
+
+- Lien github : [release](https://github.com/OnTheCALL/game/releases/tag/v0.4.2)  
+- Windows 64 bits : [lien direct](https://github.com/OnTheCALL/game/releases/download/v0.4.2/Alpha.0.4.2._64.30-12-2018.zip)  
+- Windows 32 bits : [lien direct](https://github.com/OnTheCALL/game/releases/download/v0.4.2/Alpha.0.4.2.x86.30-12-2018.zip)  
+
+**Patchnote :**  
+
+```
+Nouveau camion sous le sapin, la gestion partielle des blessures, ...
+
+Plus précisément : 
+- Arrivé de la VL, du FPTSR et de l'unité SAMU - SMUR du 22
+- Optimisation du réseaux
+- Ajout du menu blessures dans le sac de secours
+- Les noms des victimes sont aléatoires
+- On prépare l'arrivé future des feux de balisage orange comme ici : https://www.youtube.com/watch?v=mud-bUQFy9Y&t=29s
+- D'ailleurs, le FPTSR dispose d'un petit Tri-Flash sur le toit
+```
 
 ## 0.4.1  
 
