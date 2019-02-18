@@ -1,10 +1,27 @@
 # Téléchargements
 
-**Dernière mise à jour Publique : `0.4.2`**  
-Dernière mise à jour Alpha : `0.4.2`  
-*Dernière mise à jour Dev : `0.4.2`*  
+**Dernière mise à jour Publique : `0.5.0`**  
+Dernière mise à jour Alpha : `0.5.0`  
+*Dernière mise à jour Dev : `0.5.0`*  
 
 ---
+
+## 0.5.0  
+
+- Lien github : [release](https://github.com/OnTheCALL/game/releases/tag/v0.5.0)  
+- Windows 64 bits : [lien direct](https://github.com/OnTheCALL/game/releases/download/v0.5.0/Alpha.0.5.0._64.19-02-2019.zip)  
+- Windows 32 bits : [lien direct](https://github.com/OnTheCALL/game/releases/download/v0.5.0/Alpha.0.5.0.x86.19-02-2019.zip)  
+
+**Patchnote :**  
+
+```
+Après 2 mois sans MAJ, ils reviennent enfin !
+
+Avec :
+- Ajout les IA des victimes
+- nouveau générateur d'intervention aléatoire : plus de 200 scénarios différents
+- les mots de passes sont encrypté
+```
 
 ## 0.4.2  
 
